@@ -1,0 +1,1 @@
+This intermediate task list of the Laravel framework includes content on database migrations, the Eloquent ORM, routing, authentication, authorization, dependency injection, validation, views, and Blade templates. 
